@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<h2>家で作業しました。</h2>
+<h2>修正テスト</h2>
     <?php if (have_posts()): ?>
     <?php  while (have_posts()): the_post(); ?>
 	 <article class="post">
